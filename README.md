@@ -1,5 +1,5 @@
 ```markdown
-# Algoritmos de Grafos — Exercícios (Prim, Kruskal, Floyd-Warshall, Bellman-Ford, Dijkstra)
+# Algoritmos de Grafos — Prova (Prim, Kruskal, Floyd-Warshall, Bellman-Ford, Dijkstra)
 
 Este repositório contém um script Python genérico que resolve as questões do trabalho:
 - Questão 1 — Árvore geradora de custo mínimo (Algoritmo de Prim)
