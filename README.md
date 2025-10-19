@@ -26,7 +26,4 @@ Saídas geradas:
   - Matriz de distâncias e matriz de predecessores do Floyd–Warshall
   - Arranjos de distância e predecessores (Bellman–Ford e Dijkstra)
   - Árvore de caminhos de menor custo (arestas do SPT) para Bellman–Ford e Dijkstra com soma dos pesos
-  - As imagens em png das AGM em suas respectivas questões
-  - graph_mst_kruskal.png
-  - graph_spt_bellmanford.png
-  - graph_spt_dijkstra.pn
+  - As imagens em png das AGM em suas respectivas questões.
